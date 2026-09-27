@@ -1,4 +1,6 @@
 # adreno-llm
+
+> **This is a field report, not software.** There is no code in this repository. It is a written record of measurements on real hardware, including the trap that defeats the obvious approach.
 Local LLM inference on Snapdragon/Adreno Android devices — OpenCL backend guide for llama.cpp.
 
 Field-tested on an Odin2 Portal (Snapdragon 8 Gen 2 / Adreno 740, 16GB unified RAM, Android 13)
